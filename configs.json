@@ -1,0 +1,8 @@
+{
+    "activityType": "PLAYING",
+    "token": "Token du bot",
+    "serverInfo": [
+        "IP",
+        Port
+    ]
+}
